@@ -4,8 +4,9 @@
 
 - ✨ I’m Stepanida Kirillina
 - 🌱 I’m a manual / automation QA engineer
-- 🌱 I’m interested in JavaScript, Java, Playwright, Selenium, SQL 
-- 🌱 I’ve completed Java automation course (see my [Java automation project](https://github.com/StepanidaKirillina1/American_eagle))
-- 📫 How to reach me: **kirillinastepanida@gmail.com**, Linkedin: [LinkedIn Profile](https://www.linkedin.com/in/stepanida-kirillina/)
+- 🌱 I enjoy writing automated tests using Playwright and Selenium
+- 🌱 I'm keen on learning Python and JavaScript
+- 🌱 I’ve completed Java automation course (please see my [Java automation project](https://github.com/StepanidaKirillina1/American_eagle))
+- 📫 How to reach me: Linkedin: [LinkedIn Profile](https://www.linkedin.com/in/stepanida-kirillina/)
 
 Thanks for visiting!
